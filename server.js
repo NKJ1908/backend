@@ -15,7 +15,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://frontend-three-zeta-20.vercel.app/"
+      "https://frontend-three-zeta-20.vercel.app"
     ]
   })
 );
